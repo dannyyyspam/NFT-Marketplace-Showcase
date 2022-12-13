@@ -1,5 +1,4 @@
 import React from "react";
-import { icons } from "react-icons";
 
 import assets from "../assets";
 import styles from "../styles/Global";
