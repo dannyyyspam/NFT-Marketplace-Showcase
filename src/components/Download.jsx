@@ -15,7 +15,13 @@ const Download = () => {
             Follow Us on Social Media
           </p>
         </div>
-        <button className={styles.btnPrimary}>Source Code</button>
+        <a
+          href="https://github.com/dannyyyspam/NFT-Marketplace-Showcase"
+          target="_blank"
+          className={styles.btnPrimary}
+        >
+          Source Code
+        </a>
         <div className={styles.flexCenter}>
           <img
             src={assets.scene}
